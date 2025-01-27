@@ -3,10 +3,10 @@
 </p>
 
 
-# HTML Descomplicado: Seu Guia Inicial para Criar Páginas da Web ;)
+# HTML Descomplicado: Seu Guia Inicial para Criar Páginas da Web.
 
 ## 📒 Descrição
-Guia inicial de HTML em formato de Ebook com o objetivo de apresentar os conceitos básicos de forma clara, didática e progressiva, garantindo que o leitor compreenda como começar a criar páginas simples.
+Guia inicial de HTML em formato de Ebook com o objetivo de apresentar os conceitos básicos de forma clara, didática e progressiva, garantindo que o leitor compreenda como é a estrutura de uma página na internet.
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chat.openai.com/) 
